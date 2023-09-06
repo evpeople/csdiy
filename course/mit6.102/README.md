@@ -1,4 +1,4 @@
-# MIT6.031
+# MIT6.102
 
 软件工程的课程,具体包含19个Reading,三节git使用,一个Basic TypeScript, 两个开发工具的介绍.
 
